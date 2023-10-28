@@ -6,8 +6,8 @@ It is a game app that involves column-wise gameplay by aligning four playing tok
 <table style="width:100%">
   <tr>
     <td><img src="https://github.com/Clavius4/Four-In-A-Row/blob/main/fr.jpg" width="400"></td>
-    <td><img src="https://github.com/Clavius4/Four-In-A-Row/blob/main/fr2.jpg" width="400"></td>
-    <td><img src="https://github.com/Clavius4/Four-In-A-Row/blob/main/fr3.jpg" width="400"></td>
+    <td><img src="https://github.com/Clavius4/Four-In-A-Row/blob/main/fr2.png" width="400"></td>
+    <td><img src="https://github.com/Clavius4/Four-In-A-Row/blob/main/fr3.png" width="400"></td>
   </tr>
 </table>
 

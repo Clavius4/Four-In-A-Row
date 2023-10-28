@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect Four</string>
+    <string name="facebook_app_id">6613913505323678</string>
+    <string name="facebook_client_token">56789</string>
+</resources>

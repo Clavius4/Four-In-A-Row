@@ -1,6 +1,9 @@
 # Four-In-A-Row
 It is a game app that involves column-wise gameplay by aligning four playing tokens either horizontally, vertically or diagonally.
 
+## Link To Download The App:
+https://play.google.com/store/apps/details?id=com.connectfourinarow&pcampaignid=web_share
+
 ## Screenshots
 
 <table style="width:100%">
